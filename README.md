@@ -5,7 +5,7 @@
 
 Hi!
 
-I'm Dev. Scroll down to check out some of my projects!
+Scroll down to check out some of my projects!
 
 Github: https://github.com/devpatel917
 
