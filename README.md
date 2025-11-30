@@ -1,11 +1,11 @@
-## Dev's Data Science Portfolio
+## Dev's Analytics Portfolio
 
 
 <img align = "left" src="/docs/assets/IMG1048.jpg" width="378" height="504" hspace="20" vspace="20">
 
 Hi!
 
-I'm Dev, recent graduate from the University of Illinois. My interest lies in ML/AI and data science. Scroll down to check out some of my projects!
+I'm Dev. Scroll down to check out some of my projects!
 
 Github: https://github.com/devpatel917
 
@@ -13,6 +13,13 @@ Github: https://github.com/devpatel917
 
 
 ### Projects
+
+
+** 
+
+
+
+
 
 **Face Mask Detection**
 <img align = "left" src="/docs/assets/mask.png" width="348" height="234" hspace="20" vspace="20">
