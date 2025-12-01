@@ -24,6 +24,46 @@ This specialty-insurance premium simulator calculates the final annual premium u
 
 <br clear="left"/>
 
+**Specialty Line Frequency Severity Simulator**
+
+<img align = "right" src="/docs/assets/specialty_line_freq_sev_simulator.png" width="287" height="293" hspace="20" vspace="20">
+
+This specialty-insurance premium simulator calculates the final annual premium using client loss experience, industry benchmarks, flood and demographic risk factors, industry class, a credibility threshold, and other specialty adjustments. It also allows you to modify the credibility threshold to control the weighting between client data and industry benchmarks.
+
+
+<br clear="right"/>
+
+
+**Pricing Demo**
+
+<img align = "left" src="/docs/assets/pricing_demo.png" width="291" height="290" hspace="20" vspace="20">
+
+In this project, I replicate a three-line portfolio consisting of cyber, marine, and excess business. Using sample loss datasets for each line, I fit Poisson frequency models and appropriate severity distributions. I then incorporate additional components—such as expense and profit loadings, tail factors, reinsurance offsets, market adjustments, and diversification effects—to produce more stable premium estimates. Finally, I run loss simulations to visualize frequency and severity behavior and to price specific layers based on the simulated loss distribution.
+
+
+<br clear="left"/>
+
+
+**Specialty Line Reserving**
+
+<img align = "left" src="/docs/assets/specialty_line_reserving.png" width="291" height="290" hspace="20" vspace="20">
+
+This specialty-insurance premium simulator calculates the final annual premium using client loss experience, industry benchmarks, flood and demographic risk factors, industry class, a credibility threshold, and other specialty adjustments. It also allows you to modify the credibility threshold to control the weighting between client data and industry benchmarks.
+
+
+<br clear="left"/>
+
+
+**Specialty Insurance Premium Simulator**
+
+<img align = "left" src="/docs/assets/specialty_insurance_premium_simulator.png" width="291" height="290" hspace="20" vspace="20">
+
+This specialty-insurance premium simulator calculates the final annual premium using client loss experience, industry benchmarks, flood and demographic risk factors, industry class, a credibility threshold, and other specialty adjustments. It also allows you to modify the credibility threshold to control the weighting between client data and industry benchmarks.
+
+
+<br clear="left"/>
+
+
 
 **Face Mask Detection**
 <img align = "left" src="/docs/assets/mask.png" width="348" height="234" hspace="20" vspace="20">
