@@ -44,17 +44,17 @@ In this project, I replicate a three-line portfolio consisting of cyber, marine,
 <br clear="left"/>
 
 
+**Tail Risk Scenario Modeling**
+
+<img align = "right" src="/docs/assets/tailRiskScenario.png" width="296" height="288" hspace="20" vspace="20">
+
+I model multiple scenarios, including increased tail risk, higher loss frequency, catastrophic events, and combinations of these factors. The goal is to identify potential future events and accurately capture their impact. The analysis is based on a sample cyber loss dataset sourced online.
+
+
+<br clear="right"/>
+
+
 **Specialty Line Reserving**
-
-<img align = "left" src="/docs/assets/specialty_line_reserving.png" width="291" height="290" hspace="20" vspace="20">
-
-This specialty-insurance premium simulator calculates the final annual premium using client loss experience, industry benchmarks, flood and demographic risk factors, industry class, a credibility threshold, and other specialty adjustments. It also allows you to modify the credibility threshold to control the weighting between client data and industry benchmarks.
-
-
-<br clear="left"/>
-
-
-**Specialty Insurance Premium Simulator**
 
 <img align = "left" src="/docs/assets/specialty_insurance_premium_simulator.png" width="291" height="290" hspace="20" vspace="20">
 
