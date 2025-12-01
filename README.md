@@ -15,7 +15,12 @@ Github: https://github.com/devpatel917
 ### Projects
 
 
-** 
+**Specialty Insurance Premium Simulator**
+
+<img align = "left" src="/docs/assets/specialty_insurance_premium_simulator.png" width="291" height="290" hspace="20" vspace="20">
+
+This specialty-insurance premium simulator calculates the final annual premium using client loss experience, industry benchmarks, flood and demographic risk factors, industry class, a credibility threshold, and other specialty adjustments. It also allows you to modify the credibility threshold to control the weighting between client data and industry benchmarks.
+
 
 
 
