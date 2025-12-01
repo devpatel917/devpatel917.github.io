@@ -21,6 +21,8 @@ Github: https://github.com/devpatel917
 
 This specialty-insurance premium simulator calculates the final annual premium using client loss experience, industry benchmarks, flood and demographic risk factors, industry class, a credibility threshold, and other specialty adjustments. It also allows you to modify the credibility threshold to control the weighting between client data and industry benchmarks.
 
+[Specialty Insurance Premium Simulator](https://devpatel917.github.io/pricing/PremiumSimulator)
+
 
 <br clear="left"/>
 
@@ -30,6 +32,8 @@ This specialty-insurance premium simulator calculates the final annual premium u
 
 This specialty-insurance premium simulator calculates the final annual premium using client loss experience, industry benchmarks, flood and demographic risk factors, industry class, a credibility threshold, and other specialty adjustments. It also allows you to modify the credibility threshold to control the weighting between client data and industry benchmarks.
 
+
+[Specialty Line Frequency Severity Simulator](https://devpatel917.github.io/pricing/FreqSevSimulator)
 
 <br clear="right"/>
 
@@ -41,6 +45,9 @@ This specialty-insurance premium simulator calculates the final annual premium u
 In this project, I replicate a three-line portfolio consisting of cyber, marine, and excess business. Using sample loss datasets for each line, I fit Poisson frequency models and appropriate severity distributions. I then incorporate additional components—such as expense and profit loadings, tail factors, reinsurance offsets, market adjustments, and diversification effects—to produce more stable premium estimates. Finally, I run loss simulations to visualize frequency and severity behavior and to price specific layers based on the simulated loss distribution.
 
 
+[Pricing Demo](https://devpatel917.github.io/pricing/PricingDemo)
+
+
 <br clear="left"/>
 
 
@@ -49,6 +56,8 @@ In this project, I replicate a three-line portfolio consisting of cyber, marine,
 <img align = "right" src="/docs/assets/tailRiskScenario.png" width="296" height="288" hspace="20" vspace="20">
 
 I model multiple scenarios, including increased tail risk, higher loss frequency, catastrophic events, and combinations of these factors. The goal is to identify potential future events and accurately capture their impact. The analysis is based on a sample cyber loss dataset sourced online.
+
+[Tail Risk Scenario Modeling](https://devpatel917.github.io/pricing/tailRiskSimulator)
 
 
 <br clear="right"/>
@@ -59,6 +68,8 @@ I model multiple scenarios, including increased tail risk, higher loss frequency
 <img align = "left" src="/docs/assets/specialtyLineReservingSimulator.png" width="308" height="277" hspace="20" vspace="20">
 
 This specialty-line reserving simulator enables the calculation of ultimate reserves by accident year, as well as IBNR, using both the Chain Ladder and Bornhuetter-Ferguson methods, based on sample flood loss data sourced online. Tail factors and large-loss adjustments can also be applied to enhance the accuracy of the reserve estimates.
+
+[Specialty Line Reserving](https://devpatel917.github.io/pricing/ReservingSimulator)
 
 
 <br clear="left"/>
