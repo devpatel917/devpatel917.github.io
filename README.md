@@ -56,9 +56,9 @@ I model multiple scenarios, including increased tail risk, higher loss frequency
 
 **Specialty Line Reserving**
 
-<img align = "left" src="/docs/assets/specialty_insurance_premium_simulator.png" width="291" height="290" hspace="20" vspace="20">
+<img align = "left" src="/docs/assets/specialtyLineReservingSimulator.png" width="308" height="277" hspace="20" vspace="20">
 
-This specialty-insurance premium simulator calculates the final annual premium using client loss experience, industry benchmarks, flood and demographic risk factors, industry class, a credibility threshold, and other specialty adjustments. It also allows you to modify the credibility threshold to control the weighting between client data and industry benchmarks.
+This specialty-line reserving simulator enables the calculation of ultimate reserves by accident year, as well as IBNR, using both the Chain Ladder and Bornhuetter-Ferguson methods, based on sample flood loss data sourced online. Tail factors and large-loss adjustments can also be applied to enhance the accuracy of the reserve estimates.
 
 
 <br clear="left"/>
