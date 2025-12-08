@@ -15,6 +15,32 @@ Github: https://github.com/devpatel917
 ### Projects
 
 
+**Medicare Bid Model**
+
+<img align = "left" src="/docs/assets/bid_simulator.png" width="291" height="290" hspace="20" vspace="20">
+
+I built a Medicare bid pricing tool that combines risk scores, clinical data, historical claims, credibility, variance, and CMS benchmarks to analyze cost drivers. The tool models benefit design, rebates, and quality incentives to optimize plan bids. Scenario-based projections and interactive dashboards highlight ROI opportunities and breakeven thresholds for data-driven pricing decisions.
+
+[Bid Simulator](https://devpatel917.github.io/pricing/PremiumSimulator)
+
+
+**Bid and Plan Optimization**
+
+<img align = "left" src="/docs/assets/ma_plas.png" width="291" height="290" hspace="20" vspace="20">
+
+I identify top- and worst-performing plans by calculating efficiency ratios, margins, and cost-effectiveness metrics. The tool quantifies how targeted improvements in utilization, quality, or benefit design could drive financial impact. By combining historical claims, risk scores, and benchmark comparisons, it highlights actionable opportunities to optimize plan performance and ROI.
+
+[Bid Optimization](https://devpatel917.github.io/pricing/PremiumSimulator)
+
+**Specialty Insurance Premium Simulator**
+
+<img align = "left" src="/docs/assets/specialty_insurance_premium_simulator.png" width="291" height="290" hspace="20" vspace="20">
+
+This specialty-insurance premium simulator calculates the final annual premium using client loss experience, industry benchmarks, flood and demographic risk factors, industry class, a credibility threshold, and other specialty adjustments. It also allows you to modify the credibility threshold to control the weighting between client data and industry benchmarks.
+
+[Specialty Insurance Premium Simulator](https://devpatel917.github.io/pricing/PremiumSimulator)
+
+
 **Specialty Insurance Premium Simulator**
 
 <img align = "left" src="/docs/assets/specialty_insurance_premium_simulator.png" width="291" height="290" hspace="20" vspace="20">
