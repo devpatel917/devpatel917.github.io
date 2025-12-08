@@ -21,8 +21,11 @@ Github: https://github.com/devpatel917
 
 I built a Medicare bid pricing tool that combines risk scores, clinical data, historical claims, credibility, variance, and CMS benchmarks to analyze cost drivers. The tool models benefit design, rebates, and quality incentives to optimize plan bids. Scenario-based projections and interactive dashboards highlight ROI opportunities and breakeven thresholds for data-driven pricing decisions.
 
-[Bid Simulator](https://devpatel917.github.io/pricing/PremiumSimulator)
+[Bid Simulator](https://devpatel917.github.io/medicareprjects/pricing1)
+[Bid Simulator](https://devpatel917.github.io/medicareprjects/pricing2)
+[Bid Simulator](https://devpatel917.github.io/medicareprjects/pricing3)
 
+<br clear="left"/>
 
 **Bid and Plan Optimization**
 
@@ -30,7 +33,11 @@ I built a Medicare bid pricing tool that combines risk scores, clinical data, hi
 
 I identify top- and worst-performing plans by calculating efficiency ratios, margins, and cost-effectiveness metrics. The tool quantifies how targeted improvements in utilization, quality, or benefit design could drive financial impact. By combining historical claims, risk scores, and benchmark comparisons, it highlights actionable opportunities to optimize plan performance and ROI.
 
-[Bid Optimization](https://devpatel917.github.io/pricing/PremiumSimulator)
+[Bid Optimization](https://devpatel917.github.io/medicareprjects/pricing5)
+[Bid Optimization](https://devpatel917.github.io/medicareprjects/pricing7)
+[Bid Optimization](https://devpatel917.github.io/medicareprjects/pricing11)
+[Bid Optimization](https://devpatel917.github.io/medicareprjects/pricing14)
+[Bid Optimization](https://devpatel917.github.io/medicareprjects/pricing19)
 
 **Specialty Insurance Premium Simulator**
 
